@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ah93cyprg-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ah93cyprg-java-springboot-gitops
